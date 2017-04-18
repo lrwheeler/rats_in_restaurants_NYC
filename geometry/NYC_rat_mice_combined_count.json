@@ -1,0 +1,7 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":null,"properties":{"name":"Bronx","Count of Rat Violations":387,"Count of Mice Violations":11003}},
+{"type":"Feature","geometry":null,"properties":{"name":"Brooklyn","Count of Rat Violations":754,"Count of Mice Violations":27125}},
+{"type":"Feature","geometry":null,"properties":{"name":"Manhattan","Count of Rat Violations":1200,"Count of Mice Violations":39519}},
+{"type":"Feature","geometry":null,"properties":{"name":"Queens","Count of Rat Violations":373,"Count of Mice Violations":23927}},
+{"type":"Feature","geometry":null,"properties":{"name":"Staten Island","Count of Rat Violations":21,"Count of Mice Violations":2606}}
+]}
