@@ -1,0 +1,7 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":null,"properties":{"name":"Bronx","Type of Violation":"Rat","Number of Violations":387,"Description":"Evidence of rats or live rats present in facility's food and/or non-food areas."}},
+{"type":"Feature","geometry":null,"properties":{"name":"Brooklyn","Type of Violation":"Rat","Number of Violations":754,"Description":"Evidence of rats or live rats present in facility's food and/or non-food areas."}},
+{"type":"Feature","geometry":null,"properties":{"name":"Manhattan","Type of Violation":"Rat","Number of Violations":1200,"Description":"Evidence of rats or live rats present in facility's food and/or non-food areas."}},
+{"type":"Feature","geometry":null,"properties":{"name":"Queens","Type of Violation":"Rat","Number of Violations":373,"Description":"Evidence of rats or live rats present in facility's food and/or non-food areas."}},
+{"type":"Feature","geometry":null,"properties":{"name":"Staten Island","Type of Violation":"Rat","Number of Violations":21,"Description":"Evidence of rats or live rats present in facility's food and/or non-food areas."}}
+]}
