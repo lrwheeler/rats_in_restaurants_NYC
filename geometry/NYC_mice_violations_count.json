@@ -1,7 +1,0 @@
-{"type":"FeatureCollection","features":[
-{"type":"Feature","geometry":null,"properties":{"name":"Bronx","Type of Violation":"Mice","Number of Violations":11003,"Description":"Evidence of mice or live mice present in facility's food and/or non-food areas."}},
-{"type":"Feature","geometry":null,"properties":{"name":"Brooklyn","Type of Violation":"Mice","Number of Violations":27125,"Description":"Evidence of mice or live mice present in facility's food and/or non-food areas."}},
-{"type":"Feature","geometry":null,"properties":{"name":"Manhattan","Type of Violation":"Mice","Number of Violations":39519,"Description":"Evidence of mice or live mice present in facility's food and/or non-food areas."}},
-{"type":"Feature","geometry":null,"properties":{"name":"Queens","Type of Violation":"Mice","Number of Violations":23927,"Description":"Evidence of mice or live mice present in facility's food and/or non-food areas."}},
-{"type":"Feature","geometry":null,"properties":{"name":"Staten Island","Type of Violation":"Mice","Number of Violations":2606,"Description":"Evidence of mice or live mice present in facility's food and/or non-food areas."}}
-]}
